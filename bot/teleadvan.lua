@@ -290,8 +290,7 @@ topkecleon
 Vamptacus
 
 Our channels
-@teleseedch [English]
-@iranseed [persian]
+
 
 Our website 
 http://teleseed.seedteam.org/
